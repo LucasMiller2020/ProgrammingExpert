@@ -15,7 +15,7 @@ def main():
 
     # the end="" lets you have the line below it on the same line
     print("hello", 5, end="")
-    print("beanz")
+    print("beep")
 
     # what are variables?
     # x + 2 = 3, the x is a variable in math
