@@ -32,5 +32,13 @@ def main():
 
     # classes start with an uppercase letter
 
+    print()
+    name = input("Hello, you should input your name: ")
+    print()
+
+    print("Hello," + name)
+
+
+
 
 main()
