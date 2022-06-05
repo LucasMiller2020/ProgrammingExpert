@@ -26,7 +26,7 @@ def main():
     num = x
     print(num)
 
-    name = "Lucas"
+    name = "brad"
 
     max_score = 10
 
