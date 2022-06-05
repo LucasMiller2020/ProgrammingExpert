@@ -36,7 +36,7 @@ def main():
     name = input("Hello, you should input your name: ")
     print()
 
-    print("Hello," + name)
+    print("heyyy" + name)
 
     # hello lucas, how are you doing today?
     #
