@@ -39,7 +39,11 @@ def main():
     print("heyyy" + name)
 
     # hello lucas, how are you doing today?
-    #
+
+
+    """ hello, this is somewhat my joranl too. i think i need to get onto some web development stuff and create a blog 
+    i hope that my mom is listening to me somewhat. she thinks that i am doing nothing, but i think that she's starting
+     to """
 
 
 class bean():
