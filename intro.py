@@ -42,6 +42,11 @@ def main():
     #
 
 
+class bean():
+    print("b")
 
+
+
+bean()
 
 main()
