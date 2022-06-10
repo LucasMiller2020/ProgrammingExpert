@@ -39,6 +39,9 @@ def main():
     print("heyyy" + name)
 
     # hello lucas, how are you doing today?
+    """my old baby sitter is coming by """
+
+    # i need to really pick up on this
 
 
     """ hello, this is somewhat my joranl too. i think i need to get onto some web development stuff and create a blog 
