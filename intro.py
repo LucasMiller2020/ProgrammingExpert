@@ -47,7 +47,7 @@ def main():
 
     # i've been busy so i missed keeping with code. i've decided i'm going to shower then clean my room
 
-    # i need to be more consistent
+    # i need to be more consistent 2
 
 
     """ hello, this is somewhat my joranl too. i think i need to get onto some web development stuff and create a blog 
